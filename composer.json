@@ -1,0 +1,10 @@
+{
+    "name": "OmarMoper/mp-example-composerrep",
+    "type": "example",
+    "description": "example",
+    "keywords": ["example"],
+    "license": "MIT",
+    "require": {
+        "guzzle/guzzle": "~3.3"
+    }
+}
